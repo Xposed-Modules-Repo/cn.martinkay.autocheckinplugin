@@ -18,7 +18,7 @@
 > <a href="https://wwrb.lanzouy.com/injPp2vqj27i">蓝奏云下载</a>
 
 ## 群聊
-![二维码](img/qrcode.png)
+![二维码](https://github.com/Xposed-Modules-Repo/cn.martinkay.autocheckinplugin/blob/master/img/qrcode.jpg?raw=true)
 群号： 937814754
 
 ## ROOT优化
