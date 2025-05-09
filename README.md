@@ -32,9 +32,9 @@
 - [x] 增加生成随机包名功能，在下载原版程序后，在程序内生成全新的包名，防止针对性检测插件的原版包名
 
 ## 预览
-![预览](img/preview.jpg)
-![预览2](img/preview2.jpg)
-![预览3](img/preview3.jpg)
+![预览](https://github.com/Xposed-Modules-Repo/cn.martinkay.autocheckinplugin/blob/master/img/preview.jpg?raw=true)
+![预览2](https://github.com/Xposed-Modules-Repo/cn.martinkay.autocheckinplugin/blob/master/img/preview2.jpg?raw=true)
+![预览3](https://github.com/Xposed-Modules-Repo/cn.martinkay.autocheckinplugin/blob/master/img/preview3.jpg?raw=true)
 
 ## 部分技术
 
